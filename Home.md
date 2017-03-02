@@ -1,7 +1,6 @@
-Welcome to the girlstechguide wiki!
+*Collecting links here for awesome youth-focused programs, both in person and virtual.*
 
-*Collecting links here for awesome girls-focused programs, both in person and virtual.*
-
+# Girls Programs
 [DIY Girls](http://www.diygirls.org)
 
 [Kithub.cc](http://www.kithub.cc)
@@ -14,7 +13,10 @@ Welcome to the girlstechguide wiki!
 
 [Girls Can Do It](http://www.girlscandoit.org/)
 
-## To-Do's
-add short descriptions
-break down by area / territory 
-metatags 
+[Black Girls Code](http://www.blackgirlscode.com/)
+
+# Summer Camps
+
+# Corporate programs
+
+[Microsoft YouthSpark](https://www.microsoft.com/about/philanthropies/youthspark/youthsparkhub)
